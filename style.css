@@ -1,0 +1,22 @@
+
+p {
+    font-size:20px;
+    color:red;
+}
+
+
+p.standout {
+    color: violet;
+}
+
+h1.standout {
+    color:darkorchid
+}
+
+p[align] {
+    color:darkred
+}
+
+p[align="center"] {
+    color:deeppink
+}
